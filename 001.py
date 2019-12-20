@@ -6,5 +6,7 @@
 @File : 001.py
 @Software: PyCharm
 '''
+print("I\'m OK")
+print(2-5<3)
 
 
