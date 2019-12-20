@@ -7,5 +7,4 @@
 @Software: PyCharm
 '''
 
-print("陆游是傻逼！下班了吗？嗯？")
-print("唉  妈卖批")
+
